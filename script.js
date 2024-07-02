@@ -1,3 +1,4 @@
+// A Merge algo funion in js 
 function merge(left, right) {
     let sortedArr = [] // the sorted items will go here
     while (left.length && right.length) {
